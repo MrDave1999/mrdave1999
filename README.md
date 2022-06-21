@@ -13,6 +13,8 @@ I am currently learning more about C# and its .NET ecosystem but I don't rule ou
 
 [Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdave1999&show_icons=true&locale=en&layout=compact" alt="mrdave1999" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrdave1999&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdave1999&show_icons=true&locale=en" alt="mrdave1999" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdave1999&show_icons=true&locale=en&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Profile views](https://gpvc.arturio.dev/MrDave1999)](https://github.com/arturssmirnovs/github-profile-views-counter)
