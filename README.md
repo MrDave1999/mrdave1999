@@ -7,7 +7,7 @@ I like to acquire and share knowledge. I like to learn from my mistakes, so I am
 I like to know the why of things and I learned this from:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-Thank you [Dennis Ritchie](https://es.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
+Thank you [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
 
 I am currently learning more about C# and its .NET ecosystem but I don't rule out learning other technologies in the future.
 
