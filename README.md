@@ -1,5 +1,8 @@
 ### Hi, my name is Dave  👋
 
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-roman/)
+[![Discord](https://dcbadge.vercel.app/api/shield/362294127322464257)](https://github.com/ashmonty/discord-md-badge)
+
 I was born in Guayaquil, Ecuador, I am a very passionate developer and dedicated to his work. What motivated me to learn programming was [SA-MP](https://sa-mp.com/) (San Andreas Multiplayer, a multiplayer mod for GTA San Andreas), since I was 16 years old I always wanted to create my gamemode on this platform, for this reason, I committed myself to learn Pawn (it is a programming language, only it is not so well known) to achieve this goal. Good thing I knew about the existence of [SA-MP](https://sa-mp.com/), otherwise, I would never have been interested in programming.
 
 I like to acquire and share knowledge. I like to learn from my mistakes, so I am not a dogmatic person. I like to learn from the person who knows more than me. I like to create and contribute to open-source projects. 
