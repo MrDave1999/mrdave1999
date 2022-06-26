@@ -18,7 +18,7 @@ I am currently learning more about C# and its .NET ecosystem but I don't rule ou
 
 [![Profile views](https://gpvc.arturio.dev/MrDave1999)](https://github.com/arturssmirnovs/github-profile-views-counter)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrdave1999&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrdave1999&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=8&hide=OpenEdge%20ABL)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Repos-Per-Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdave1999&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrdave1999&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
