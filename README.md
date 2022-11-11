@@ -1,7 +1,9 @@
 ### Hi, my name is Dave  👋
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-roman/)
-[![Discord](https://dcbadge.vercel.app/api/shield/362294127322464257)](https://github.com/ashmonty/discord-md-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](mrdave1999.github.io/devportfolio)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362294127322464257)
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://es.stackoverflow.com/users/105299/mrdave1999)
 [![Profile views](https://komarev.com/ghpvc/?username=mrdave1999&color=green&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 I was born in Guayaquil, Ecuador, I am a very passionate developer and dedicated to his work. What motivated me to learn programming was [SA-MP](https://sa-mp.com/) (San Andreas Multiplayer, a multiplayer mod for GTA San Andreas), since I was 16 years old I always wanted to create my gamemode on this platform, for this reason, I committed myself to learn Pawn (it is a programming language, only it is not so well known) to achieve this goal. Good thing I knew about the existence of [SA-MP](https://sa-mp.com/), otherwise, I would never have been interested in programming.
