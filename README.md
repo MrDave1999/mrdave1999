@@ -1,7 +1,7 @@
 ### Hi, my name is Dave  👋
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-roman/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrdave1999.github.io/devportfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrdave1999.github.io)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362294127322464257)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://es.stackoverflow.com/users/105299/mrdave1999)
 [![Profile views](https://komarev.com/ghpvc/?username=mrdave1999&color=green&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
