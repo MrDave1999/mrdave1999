@@ -15,15 +15,9 @@ I like to know the why of things and I learned this from:
 
 Thank you [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) for this great language :heart_eyes:
 
-I am currently learning more about C# and its .NET ecosystem but I don't rule out learning other technologies in the future.
-
 [Terry Lambert](https://www.quora.com/Is-Go-better-in-multithreading-than-C) said: *Just because something is easier for a programmer doesn’t make it “better”.*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrdave1999&show_icons=true&locale=en&layout=compact&theme=monokai&langs_count=8&hide=OpenEdge%20ABL)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Repos-Per-Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdave1999&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrdave1999&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdave1999&show_icons=true&count_private=true&locale=en&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdave1999&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
