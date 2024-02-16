@@ -10,13 +10,13 @@ I was born in Guayaquil, Ecuador, I'm a very passionate engineer and dedicated t
 
 Active since years in the open source community, especially in the .NET ecosystem.
 
-I have created the following open source projects:
-- [DentallApp.Backend](https://github.com/DentallApp/back-end) - A web API for a dental office that allows scheduling appointments using a chatbot and sending automatic appointment reminders to patients.
+**I have created the following open source projects:**
+- [DentallApp](https://github.com/DentallApp) - A web application that manages appointment scheduling, reminders and cancellation of appointments.
 - [DotEnv.Core](https://github.com/MrDave1999/dotenv.core) - A class library for read and parsing .env files.
-- [Capture The Flag](https://github.com/MrDave1999/Capture-The-Flag) - A gamemode for SA-MP (San Andreas Multiplayer) created with .NET/C# and [SampSharp.net](https://sampsharp.net/).
 - [YeSQL.NET](https://github.com/ose-net/yesql.net) - A class library for loading SQL statements from .sql files instead of writing SQL code in your C# source files.
 - [SimpleResults](https://github.com/MrDave1999/SimpleResults) - A .NET library that provides new error handling using the [Result pattern](https://medium.com/@wgyxxbf/result-pattern-a01729f42f8c) without using exceptions.
 - [CPlugin.Net](https://github.com/MrDave1999/CPlugin.Net) - A simple library that allows to implement a plugin-based architecture for .NET.
+- [Capture The Flag](https://github.com/MrDave1999/Capture-The-Flag) - A gamemode for SA-MP (San Andreas Multiplayer) created with .NET/C# and [SampSharp.net](https://sampsharp.net/).
 - [Seztion.Parser](https://github.com/MrDave1999/seztion-parser) - A class library used to read data from each section of a file (the file extension can be any, e.g. .INI).
 
 <p align="left"> 
