@@ -6,7 +6,7 @@
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://es.stackoverflow.com/users/105299/mrdave1999)
 [![Profile views](https://komarev.com/ghpvc/?username=mrdave1999&color=green&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creating [open source](https://opensource.org/definition-annotated) projects. My interest in programming was sparked by [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer), a multiplayer mod for GTA San Andreas. Since I was 16, I've always wanted to create my own game mode on this platform, which led me to learn Pawn (a less well-known programming language) to achieve this goal. I'm grateful I discovered [SA-MP](https://www.sa-mp.mp); otherwise, I might never have developed my passion for programming.
+I was born in Guayaquil, Ecuador, and I'm a passionate developer who loves creating [open source](https://opensource.org/definition-annotated) projects. My interest in programming was sparked by [SA-MP](https://www.sa-mp.mp) (San Andreas Multiplayer), a multiplayer mod for GTA San Andreas. Since I was 16, I wanted to create my own game mode on this platform, which motivated me to learn Pawn, a lesser-known programming language. I'm grateful to have discovered [SA-MP](https://www.sa-mp.mp), as it allowed me to develop my passion for programming and achieve my goal of becoming a systems engineer.
 
 Active since years in the open source community, especially in the .NET ecosystem.
 
