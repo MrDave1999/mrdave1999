@@ -1,5 +1,5 @@
 ## About Dave
-[![Linkedin](https://img.shields.io/badge/-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DaveRoman-mc4nn)
+[![YouTube](https://img.shields.io/badge/-YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DaveRoman-mc4nn)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-roman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrdave1999.github.io)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/362294127322464257)
